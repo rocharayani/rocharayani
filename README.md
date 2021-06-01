@@ -1,11 +1,12 @@
-## Oie! Eu sou a Rayani Rocha <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Oie! Eu sou a Ray <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-## Bio
+### Bio
 
 - Computer science student 💙 
 - Programar girl 👩‍💻
 
-## "O conhecimento é um tesouro, mas a prática é a chave para alcançá-lo."
+<p align="center">
+### "O conhecimento é um tesouro, mas a prática é a chave para alcançá-lo."</p>
 <p align="right">Thomas Fuller
 </p>
 
