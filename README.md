@@ -3,7 +3,7 @@
 ### Bio
 
 - Computer science student 💙 
-- Programar girl 👩‍💻
+- Programmer girl 👩‍💻
 
 
 ### O conhecimento é um tesouro, mas a prática é a chave para alcançá-lo.
