@@ -1,5 +1,5 @@
-## Oie! Eu me Rayani Rocha,
-Se quiser saber mais sobre mim, acesse minhas redes sociais <a href='https://emojitool.com/pt/white-down-pointing-backhand-index-type-3'>👇🏼</a>
+## Oie! Eu sou a Rayani Rocha
+Saiba mais sobre mim, acesse minhas redes sociais <a href='https://emojitool.com/pt/white-down-pointing-backhand-index-type-3'>👇🏼</a>
 
 <div> 
   <a href="https://instagram.com/raysrocha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
