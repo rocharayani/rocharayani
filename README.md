@@ -7,7 +7,7 @@
 
 
 ### O conhecimento é um tesouro, mas a prática é a chave para alcançá-lo.
-<p align="right">Thomas Fuller
+<p align="center">Thomas Fuller
 </p>
 
 
