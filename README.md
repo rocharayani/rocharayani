@@ -5,8 +5,8 @@
 - Computer science student 💙 
 - Programar girl 👩‍💻
 
-<p align="center">
-### O conhecimento é um tesouro, mas a prática é a chave para alcançá-lo.</p>
+
+### O conhecimento é um tesouro, mas a prática é a chave para alcançá-lo.
 <p align="right">Thomas Fuller
 </p>
 
